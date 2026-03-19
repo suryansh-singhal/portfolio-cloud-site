@@ -125,5 +125,6 @@ https://github.com/suryansh-singhal/portfolio-cloud-site
 
 ## 👨‍💻 Author
 
-Suryansh Singhal
-MCA Student | Cloud Computing | AWS | DevOps
+MCA Student | Cloud Computing Enthusiast
+
+📧 [suryanshsinghal.work@gmail.com](mailto:suryanshsinghal.work@gmail.com)
